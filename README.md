@@ -10,9 +10,9 @@ This application will track the number of words and characters inputted. It will
 ### Executing program
 
 Enter the text you wish to track the words or Characters into the text box where it says "Enter your text". You could copy and paste the text you wish to track into the text box as well.
-```
 
-## Help
+
+### Help
 
 To clear the text in the textbox just refresh page.
 
@@ -26,7 +26,7 @@ https://bytegrad.com
 
 ## License
 
-This project is licensed under the [B-DOG Designs License - see the LICENSE.md file for details
+This project is licensed under the [B-DOG Designs] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
